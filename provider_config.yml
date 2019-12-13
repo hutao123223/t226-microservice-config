@@ -38,7 +38,7 @@ info:
   artifactId: microservice-student-provider-config-1007
   version: 1.0-SNAPSHOT
   userName: http://hutao.com
-  phone: 123456
+  phone: 123
 ---
 server:
   port: 1008
@@ -75,4 +75,4 @@ info:
   artifactId: microservice-student-provider-config-1008
   version: 1.0-SNAPSHOT
   userName: http://hutao.com
-  phone: 123456
+  phone: 123
